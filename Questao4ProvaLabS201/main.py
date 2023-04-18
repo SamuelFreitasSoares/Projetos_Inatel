@@ -39,3 +39,4 @@ c3.mover()
 c3.mover()
 c3.mover()
 
+#tanka o jeito de mover os cavalos kekw XD
