@@ -1,0 +1,14 @@
+function percorrer_tabela(tabela, x)
+  for i=1,#tabela do
+    tabela[i] = tabela[i]*x
+  print(tabela[i])
+  end
+end
+
+print("entre com um numero: ")
+local x = 0
+local array = {30,29,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0}
+x = io.read()
+print(percorrer_tabela(array,x))
+
+// feito em Lua UwU
